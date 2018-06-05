@@ -1,0 +1,12 @@
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\bin\Release\NicoInWonderland.exe.config
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\bin\Release\NicoInWonderland.exe
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\bin\Release\NicoInWonderland.pdb
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\bin\Release\NicoInWonderland.xml
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.vbprojResolveAssemblyReference.cache
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.Form1.resources
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.Resources.resources
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.vbproj.GenerateResource.cache
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.vbproj.CoreCompileInputs.cache
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.exe
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.xml
+C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.pdb
