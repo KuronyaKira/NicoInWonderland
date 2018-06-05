@@ -254,6 +254,12 @@ Partial Class Form1
         Me.TextBox2.Size = New System.Drawing.Size(216, 107)
         Me.TextBox2.TabIndex = 48
         '
+        'Timer2
+        '
+        '
+        'Timer1
+        '
+        '
         'Timer3
         '
         Me.Timer3.Interval = 2800
@@ -316,7 +322,7 @@ Partial Class Form1
         'PictureBox3
         '
         Me.PictureBox3.BackColor = System.Drawing.Color.Transparent
-        Me.PictureBox3.Image = Global.NicoInWonderland.My.Resources.Resources.poweroff
+        Me.PictureBox3.Image = Global.NicoInWonderland.My.Resources.Resources.batsu
         Me.PictureBox3.Location = New System.Drawing.Point(275, 60)
         Me.PictureBox3.Name = "PictureBox3"
         Me.PictureBox3.Size = New System.Drawing.Size(40, 40)
