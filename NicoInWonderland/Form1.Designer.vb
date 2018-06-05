@@ -262,7 +262,7 @@ Partial Class Form1
         '
         'Timer3
         '
-        Me.Timer3.Interval = 2800
+        Me.Timer3.Interval = 2850
         '
         'PictureBox8
         '
