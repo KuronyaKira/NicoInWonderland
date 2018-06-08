@@ -526,7 +526,7 @@
             Label4.Text = ""
             Label5.Text = "I would shut down at"
             Label6.Text = "I would ring the alarm at"
-            ComboBox2.Left = 145
+            ComboBox2.Left = 125
             ComboBox1.Visible = False
             ComboBox3.Visible = True
             ComboBox4.Visible = True
@@ -536,7 +536,7 @@
             Label4.Text = "min"
             Label5.Text = "I would shut down after"
             Label6.Text = "I would ring the alarm after"
-            ComboBox2.Left = 185
+            ComboBox2.Left = 165
             ComboBox1.Visible = True
             ComboBox3.Visible = False
             ComboBox4.Visible = False
