@@ -57,6 +57,11 @@ NicoInWonderland
   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
 </summary>
 </member>
+<member name="P:NicoInWonderland.My.Resources.Resources.nicoclick">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
 <member name="P:NicoInWonderland.My.Resources.Resources.nicoloop">
 <summary>
   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。

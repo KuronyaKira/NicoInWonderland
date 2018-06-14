@@ -611,4 +611,13 @@
 
         PictureBox1.Image = My.Resources.nicoloop
     End Sub
+
+    'にこにークリック
+    Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
+        'にこちゃんの表示をうなずかせる。
+        PictureBox1.Image = My.Resources.nicoclick
+
+        'にこちゃんの表示を戻す用のタイマー
+        Timer3.Start()
+    End Sub
 End Class
