@@ -182,6 +182,7 @@
         PictureBox2.Controls.Add(PictureBox6)
         PictureBox2.Controls.Add(PictureBox7)
         PictureBox2.Controls.Add(PictureBox8)
+        PictureBox2.Controls.Add(PictureBox9)
         PictureBox2.Controls.Add(Label1)
         PictureBox2.Controls.Add(Label2)
 
@@ -265,6 +266,7 @@
         PictureBox6.Visible = False
         PictureBox7.Visible = False
         PictureBox8.Visible = False
+        PictureBox9.Visible = False
 
         Label1.Visible = False
         Label2.Visible = False
@@ -277,6 +279,7 @@
         PictureBox6.Visible = True
         PictureBox7.Visible = True
         PictureBox8.Visible = True
+        PictureBox9.Visible = True
 
         Label1.Visible = True
         Label2.Visible = True
@@ -616,8 +619,14 @@
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
         'にこちゃんの表示をうなずかせる。
         PictureBox1.Image = My.Resources.nicoclick
+        PictureBox1.Image = My.Resources.nicoclick
 
         'にこちゃんの表示を戻す用のタイマー
         Timer3.Start()
+    End Sub
+
+    'ヘルプボタンクリック
+    Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
+
     End Sub
 End Class

@@ -157,5 +157,8 @@
   <ItemGroup>
     <None Include="Resources\ふしにこ_sample_楽05.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hatena.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
