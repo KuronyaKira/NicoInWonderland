@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    width: 850px;
+    margin-right: auto;
+    margin-left : auto;
+    background: linear-gradient(#fbf, #f9f);
+    background-attachment: fixed;
+}
+
+.contents {
+    box-shadow: 0 0 25px #fff;
+    margin:0;
+    padding: 10px 20px;
+    background-color: #fff;
+}
+
+div {
+    margin: 30px 0px;
+}
+
+section {
+    margin: 30px 0px;
+}
+
+header{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+h1,h2,h3{
+    color: #f7f
+}
+
+a{
+    color: #f8f
+}
+
+ol{
+    color: #f8f
+}
+
+h3:before {
+    margin: 0px 10px 0px 0px;
+}
+
+#shut:before {
+    content: url(images/poweroff.png);
+}
+#alarm:before {
+        content: url(images/clock.png);
+}
+#web:before {
+        content: url(images/loupe.png);
+}
+#note:before {
+        content: url(images/memo.png);
+}
+#manual:before {
+        content: url(images/hatena.png);
+}
+#exit:before {
+        content: url(images/batsu.png);
+}
+
+.function{
+    margin: 0px 0px 0px 20px
+}
+
+.imageandtext img{
+    vertical-align:middle;
+}
+
+.imageandtext{
+    font-size: 1.5em;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+}

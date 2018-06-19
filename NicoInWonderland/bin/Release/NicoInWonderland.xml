@@ -37,9 +37,19 @@ NicoInWonderland
   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
 </summary>
 </member>
+<member name="P:NicoInWonderland.My.Resources.Resources.hatena">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
 <member name="P:NicoInWonderland.My.Resources.Resources.heart">
 <summary>
   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:NicoInWonderland.My.Resources.Resources.icon">
+<summary>
+  (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
 </summary>
 </member>
 <member name="P:NicoInWonderland.My.Resources.Resources.lace3">
@@ -53,6 +63,11 @@ NicoInWonderland
 </summary>
 </member>
 <member name="P:NicoInWonderland.My.Resources.Resources.memo">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:NicoInWonderland.My.Resources.Resources.nicoclick">
 <summary>
   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
 </summary>

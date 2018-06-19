@@ -627,6 +627,7 @@
 
     'ヘルプボタンクリック
     Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
-
+        Dim p As System.Diagnostics.Process =
+            System.Diagnostics.Process.Start("HelpPage\help.html")
     End Sub
 End Class
