@@ -46,22 +46,22 @@ h3:before {
 }
 
 #shut:before {
-    content: url(poweroff.png);
+    content: url(images/poweroff.png);
 }
 #alarm:before {
-        content: url(clock.png);
+        content: url(images/clock.png);
 }
 #web:before {
-        content: url(loupe.png);
+        content: url(images/loupe.png);
 }
 #note:before {
-        content: url(memo.png);
+        content: url(images/memo.png);
 }
 #manual:before {
-        content: url(hatena.png);
+        content: url(images/hatena.png);
 }
 #exit:before {
-        content: url(batsu.png);
+        content: url(images/batsu.png);
 }
 
 .function{
