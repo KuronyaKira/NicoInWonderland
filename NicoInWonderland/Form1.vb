@@ -643,7 +643,9 @@ Public Class Form1
 
     'ヘルプボタンクリック
     Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
-        Dim p As System.Diagnostics.Process =
-            System.Diagnostics.Process.Start("HelpPage\help.html")
+        'Dim p As System.Diagnostics.Process =
+        '    System.Diagnostics.Process.Start("HelpPage\help.html")
+
+        System.Diagnostics.Process.Start("https://kuronyakira.github.io/NicoInWonderlandHelp/")
     End Sub
 End Class
