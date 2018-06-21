@@ -14,7 +14,6 @@ C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\bin\Debug\NicoI
 C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\bin\Debug\NicoInWonderland.exe
 C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\bin\Debug\NicoInWonderland.pdb
 C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\bin\Debug\NicoInWonderland.xml
-C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Debug\NicoInWonderland.vbprojResolveAssemblyReference.cache
 C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Debug\NicoInWonderland.Form1.resources
 C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Debug\NicoInWonderland.Resources.resources
 C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Debug\NicoInWonderland.vbproj.GenerateResource.Cache
@@ -22,3 +21,4 @@ C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Debug\NicoI
 C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Debug\NicoInWonderland.exe
 C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Debug\NicoInWonderland.xml
 C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Debug\NicoInWonderland.pdb
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Debug\NicoInWonderland.vbprojAssemblyReference.cache

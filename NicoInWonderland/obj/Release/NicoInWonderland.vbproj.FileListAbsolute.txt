@@ -10,3 +10,15 @@ C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\
 C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.exe
 C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.xml
 C:\temp\development\VB\NicoWidget\NicoInWonderland\NicoInWonderland\obj\Release\NicoInWonderland.pdb
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\bin\Release\NicoInWonderland.exe.config
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\bin\Release\NicoInWonderland.exe
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\bin\Release\NicoInWonderland.pdb
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\bin\Release\NicoInWonderland.xml
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Release\NicoInWonderland.vbprojAssemblyReference.cache
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Release\NicoInWonderland.Form1.resources
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Release\NicoInWonderland.Resources.resources
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Release\NicoInWonderland.vbproj.GenerateResource.cache
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Release\NicoInWonderland.vbproj.CoreCompileInputs.cache
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Release\NicoInWonderland.exe
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Release\NicoInWonderland.xml
+C:\Users\nyanyan\Desktop\VBTest02\VB\NicoWidget\NicoInWonderland\obj\Release\NicoInWonderland.pdb
