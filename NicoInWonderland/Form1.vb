@@ -1,4 +1,7 @@
-﻿Public Class Form1
+﻿Imports System.IO
+Imports System.Environment
+
+Public Class Form1
     'マウスのクリック位置を記憶
     Private mousePoint As Point
 
@@ -208,6 +211,19 @@
         'メモ用
         PictureBox2.Controls.Add(TextBox2)
 
+
+        'メモ帳の作成など
+        My.Computer.FileSystem.CreateDirectory((GetFolderPath(SpecialFolder.Personal)) & "\Kuronya'sApp")
+        Dim sw As New System.IO.StreamWriter _
+            ((GetFolderPath(SpecialFolder.Personal)) & "\Kuronya'sApp\NicoNotepad.txt", True)
+
+        Console.WriteLine((GetFolderPath(SpecialFolder.Personal)) & "\Kuronya'sApp\NicoNotepad.txt")
+
+        '何も書き込まない。
+        sw.Write("")
+        '閉じる
+        sw.Close()
+
     End Sub
 
     'アプリケーションを終了する。
@@ -379,7 +395,7 @@
             TextBox1.Visible = True
 
         ElseIf pSW = 4 Then
-            TextBox2.Text = IO.File.ReadAllText("nicomemo.txt",
+            TextBox2.Text = IO.File.ReadAllText((GetFolderPath(SpecialFolder.Personal)) & "\Kuronya'sApp\NicoNotepad.txt",
                                                 System.Text.Encoding.GetEncoding("unicode"))
             TextBox2.Visible = True
             Button4.Visible = True
@@ -577,7 +593,7 @@
 
         'メモページから戻るときにはメモをtxtに保存する。
         If pSW = 4 Then
-            Dim sw As New System.IO.StreamWriter("nicomemo.txt",
+            Dim sw As New System.IO.StreamWriter((GetFolderPath(SpecialFolder.Personal)) & "\Kuronya'sApp\NicoNotepad.txt",
     False,
     System.Text.Encoding.GetEncoding("utf-16"))
             'TextBox1.Textの内容を書き込む
