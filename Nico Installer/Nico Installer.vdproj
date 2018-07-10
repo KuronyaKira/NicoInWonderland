@@ -68,6 +68,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
         "Release"
@@ -187,6 +195,18 @@
         }
         "Folder"
         {
+            "{994432C3-9487-495D-8656-3E829A8DBDDE}:_2AF5F8EB140E4C7BB23531887FDD88F4"
+            {
+            "DefaultLocation" = "8:[TARGETDIR]"
+            "Name" = "8:ProgramMenuFolder"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:NEWPROPERTY1"
+                "Folders"
+                {
+                }
+            }
             "{1525181F-901A-416C-8A58-119130FE478E}:_2FDBD533C81442379AECED22B946B5BE"
             {
             "Name" = "8:#1916"
@@ -381,6 +401,20 @@
             "Folder" = "8:_D748D3976E3F49DEB631E84B954FEF71"
             "WorkingFolder" = "8:_34E91EEF01174F02ADE9ACB15FFF4A2C"
             "Icon" = "8:_3E1EE478634241EF8ACEE754DF8743F0"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F3312BB683E241FEBC8C4BA592405FC9"
+            {
+            "Name" = "8:Shortcut to プライマリ出力 from NicoInWonderland (Active)"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_31D26CB7BF4546E49B6C97E5D91AF474"
+            "Folder" = "8:_2AF5F8EB140E4C7BB23531887FDD88F4"
+            "WorkingFolder" = "8:_34E91EEF01174F02ADE9ACB15FFF4A2C"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
         }
